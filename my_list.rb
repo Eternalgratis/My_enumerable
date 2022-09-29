@@ -1,10 +1,10 @@
-require_relative "my_enumerable"
+require_relative 'my_enumerable'
 # defining class MyList
 class MyList
   include MyEnumerable
   # initialize method
   def initialize(*param)
-    # initialize intance variable @list
+    # initialize instance variable @list
     @list = param
   end
 
