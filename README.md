@@ -2,7 +2,7 @@
 
 # My own enumerable
 
-> This projects containts the module MyEnumerable with an own version of the methods #all?, #any? and #filter of the Enumerable module. And the class MyList, wich has an variable @list and use the module MyEnumerable to yields the methods with each elements of the list.
+> This project containts the module MyEnumerable with an own version of the methods #all?, #any? and #filter of the Enumerable module. And the class MyList, wich has an variable @list and use the module MyEnumerable to yields the methods with each elements of the list.
 
 
 ## Built With
